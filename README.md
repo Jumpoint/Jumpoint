@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on a Flutter project
 - 🌱 I’m currently learning software development
 
 <!--
